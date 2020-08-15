@@ -4,11 +4,11 @@ import WordCard from './WordCard.js';
 import './App.css';
 const word = "Hello";
 function App() {
- return (
- <div>
-   <WordCard value="hello"/>
+  return (
+    <div>
+      <WordCard value="hello" />
 
- </div>
- );
+    </div>
+  );
 }
 export default App;
